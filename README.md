@@ -1,2 +1,16 @@
-# leprosy_reanalysis_paper
-Here is the code used to reanalyze a set of 11 microarray datasets and produce figures/results as presented in the paper X
+# Reanalysis and integration of public leprosy gene expression datasets
+
+This repository contains all the R code used to reanalyze a set of 9 microarray datasets presented in the paper: 
+
+## Structure
+
+1.
+2. 
+3.
+
+## License
+
+Creative Commons?
+
+### Contact
+
