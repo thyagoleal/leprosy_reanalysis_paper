@@ -1,7 +1,7 @@
 ## GSE443 - Re-analysis of affymetrix one-channel array
 ## Thyago Leal Calvo - thyagoleal@yahoo.com 
 ## Last update: June 9th 2018
-*******************************************************
+# *******************************************************
 
 ## Settings -------------------------------
 
