@@ -1,8 +1,7 @@
-##########################################################
 ## GSE443 - Re-analysis of affymetrix one-channel array
 ## Thyago Leal Calvo - thyagoleal@yahoo.com 
 ## Last update: June 9th 2018
-##########################################################
+*******************************************************
 
 ## Settings -------------------------------
 
@@ -12,12 +11,12 @@ root <- getwd()
 
 ## Loading packages -------------------------------
 
-require(GEOquery)
-require(limma)
-require(org.Hs.eg.db)
-require(AnnotationDbi)
-require(WriteXLS)
-require(hgu95av2.db)
+library(GEOquery)
+library(limma)
+library(org.Hs.eg.db)
+library(AnnotationDbi)
+library(WriteXLS)
+library(hgu95av2.db)
 
 ## Loading data from GEO -------------------------------
 
