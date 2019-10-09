@@ -10,4 +10,4 @@ This repository contains all the R code used to reanalyze a set of 9 microarray 
 
 ### Contact
 
-Thyago Leal Calvo - <thyagoleal at yahoo dot com>
+Thyago Leal Calvo - thyagoleal at yahoo dot com
