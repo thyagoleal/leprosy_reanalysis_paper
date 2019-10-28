@@ -2,11 +2,7 @@
 
 This repository contains all the R code used to reanalyze a set of 9 microarray datasets presented in the paper: 
 
-## Structure
-
-1.
-2. 
-3.
+**REANALYSIS AND INTEGRATION OF PUBLIC MICROARRAY DATASETS REVEALS NOVEL HOST GENES MODULATED IN LEPROSY**
 
 ### Contact
 
