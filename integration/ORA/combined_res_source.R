@@ -4,8 +4,6 @@
 ## ********************************
 
 ## Settings --------------
-
-rm(list = ls()); gc()
 set.seed(12909)
 options(digits = 3)
 dir()
