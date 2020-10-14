@@ -11,10 +11,10 @@ root <- getwd()
 
 ## Libraries ------------------------
 
-require(limma)
-require(illuminaHumanv4.db)
-require(GEOquery)
-require(Biobase)
+library('limma')
+library('illuminaHumanv4.db')
+library('GEOquery')
+library('Biobase')
 
 ## I decided to use the normalized data from GEO instead of the "raw", because I can make mistakes in pairing the samples with the headings of the raw data. Although, I'm gonna use the P-values from the RAW data to subset my expression set from GEO.
 
@@ -318,6 +318,3 @@ write.csv(deg1.mf@result[,1:7], file = "results/GO_MF_LLvsENL.csv", row.names = 
 ### END ### 
 rm(list=ls())
 q(save = "no")
-
-
-
