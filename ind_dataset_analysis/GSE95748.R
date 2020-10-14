@@ -11,10 +11,10 @@ options(digits = 3, scipen = 999)
 
 ## Loading packages 
 
-require("limma")
-require("Biobase")
-require("mouse4302.db")
-require("affy")
+library("limma")
+library("Biobase")
+library("mouse4302.db")
+library("affy")
 library("simpleaffy")
 library("affyQCReport")
 library("arrayQualityMetrics")
@@ -418,31 +418,3 @@ cnetplot(
 )
 
 write.csv(go.mf.14@result[, 1:7], file = "results/go.mf.14.csv", row.names = FALSE)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
