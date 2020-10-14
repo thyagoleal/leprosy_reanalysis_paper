@@ -11,12 +11,12 @@ options(digits = 3)
 
 ### Loading Packages ----------
 
-require(oligo)
-require(limma)
-require(Biobase)
-require(geneplotter)
-library(WriteXLS)
-library(GEOquery)
+library('oligo')
+library('limma')
+library('Biobase')
+library('geneplotter')
+library('WriteXLS')
+library('GEOquery')
 
 ### Converting pairs to xys ---------
 
