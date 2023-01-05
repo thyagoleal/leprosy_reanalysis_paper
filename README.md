@@ -7,7 +7,7 @@ https://doi.org/10.1101/824805
 
 ## Further details
 
-Additionally, raw data, processed data, figures and Rstudio projects ares available in Zenodo: DOI
+Additionally, raw data, processed data, figures and Rstudio projects ares available in Zenodo: doi.org/10.5281/zenodo.3840319
 
 ### Contact
 
